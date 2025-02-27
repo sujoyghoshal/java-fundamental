@@ -6,6 +6,5 @@ public class PerimeterOfRectangle {
         double length = scanner.nextDouble();
         double width = scanner.nextDouble();
         System.out.println(2 * (length + width));
-        scanner.close();
     }
 }
