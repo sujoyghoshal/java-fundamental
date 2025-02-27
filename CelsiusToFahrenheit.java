@@ -4,6 +4,5 @@ public class CelsiusToFahrenheit {
         Scanner scanner = new Scanner(System.in);
         double celsius = scanner.nextDouble();
         System.out.println((celsius * 9/5) + 32);
-        scanner.close();
     }
 }
