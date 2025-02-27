@@ -6,6 +6,5 @@ public class PowerCalculation {
         double base = scanner.nextDouble();
         double exponent = scanner.nextDouble();
         System.out.println(Math.pow(base, exponent));
-        scanner.close();
     }
 }
