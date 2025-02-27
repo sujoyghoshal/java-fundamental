@@ -24,15 +24,6 @@ This repository contains fundamental Java programs practiced during the **Capgem
 8. **Kilometers to Miles Conversion**  
    - Formula: `Miles = Kilometers * 0.621371`
 
-## 📸 Screenshots
-### Sample Output  
-<img src="assets/sample-output.png" alt="Sample Output" width="500">
-
-## 🛠 Prerequisites
-- **Java 8+** installed  
-- **Git** for version control  
-- **IDE** (NotePad++,Eclipse, IntelliJ, or VS Code)
-
 ## 🚀 Getting Started
 1. Clone the repository:  
    ```sh
