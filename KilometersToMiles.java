@@ -5,6 +5,5 @@ public class KilometersToMiles {
         Scanner scanner = new Scanner(System.in);
         double kilometers = scanner.nextDouble();
         System.out.println(kilometers * 0.621371);
-        scanner.close();
     }
 }
