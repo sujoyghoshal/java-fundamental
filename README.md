@@ -1,23 +1,28 @@
-# Java Fundamental Repository
+# Java-Fundamental
 
-This repository contains fundamental Java programs and concepts covered over 10 days.
+This repository contains the fundamental concepts of Java, organized by daily topics.
 
-## 📅 Java Learning Schedule (10 Days)
+## 📅 10 Days Java Learning Plan
 
-| Day  | Topic                  | Description |
-|------|------------------------|-------------|
-| 1    | **Introduction to Java** | Overview of Java, setup, and first program |
-| 2    | **Java Variables & Data Types** | Understanding primitive & non-primitive types |
-| 3    | **Operators & Expressions** | Arithmetic, logical, relational, bitwise operators |
-| 4    | **Control Flow Statements** | If-else, switch-case, loops (for, while, do-while) |
-| 5    | **Functions & Methods** | Creating functions, method overloading |
-| 6    | **Arrays & Strings** | Working with 1D & 2D arrays, String methods |
-| 7    | **Object-Oriented Programming (OOP)** | Classes, objects, inheritance, polymorphism |
-| 8    | **Exception Handling** | Try-catch, finally, throw, throws |
-| 9    | **File Handling in Java** | Reading/writing files using File I/O |
-| 10   | **[Git & GitHub](/Docs/Git&Github.txt)** | Version control, Git commands, working with repositories |
+| Day  | Topic Name         | Open |
+|------|--------------------|------|
+| Day 1 | Git & GitHub       | [Open](Docs/Git&Github.txt) |
+| Day 2 | Java History       | [Open](Docs/Java_History.txt) |
+| Day 3 | JDK, JRE, JVM      | [Open](Docs/JDK_JRE_JVM.txt) |
+| Day 4 | Java Installation  | [Open](Docs/Java_Installation.txt) |
+| Day 5 | Java Syntax & Data Types | [Open](Docs/Java_Syntax_DataTypes.txt) |
+| Day 6 | Operators in Java  | [Open](Docs/Operators.txt) |
+| Day 7 | Control Statements | [Open](Docs/Control_Statements.txt) |
+| Day 8 | Functions & Methods | [Open](Docs/Functions_Methods.txt) |
+| Day 9 | Object-Oriented Programming | [Open](Docs/OOP.txt) |
+| Day 10 | Exception Handling | [Open](Docs/Exception_Handling.txt) |
 
----
+## 📝 About this Repository
+- This repository is designed to help beginners learn **Java** from scratch.
+- Each topic has its own detailed **notes** stored inside the **Docs/** folder.
+- Follow the daily plan and explore Java step by step.
 
-## 📂 Repository Structure
-
+## 🚀 How to Use?
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/sujoyghoshal/java-fundamental.git
