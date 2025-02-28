@@ -7,10 +7,10 @@ This repository contains the fundamental concepts of Java, organized by daily to
 | Day  | Topic Name         | Open |
 |------|--------------------|------|
 | Day 1 | Git & GitHub       | [Open](Docs/Readme1.md) |
-| Day 2 | Java History       | [Open](Docs/Readme2.md) |
-| Day 3 | JDK, JRE, JVM      | [Open](Docs/Readme3.md) |
-| Day 4 | Data Types | [Open](Docs/Readme4.md) |
-| Day 5 | ----------  | [Open](Docs/Readme5.md) |
+| Day 2 | Java History       | [Open](/Docs/Readme2.md) |
+| Day 3 | JDK, JRE, JVM      | [Open](/Docs/Readme3.md) |
+| Day 4 | Data Types | [Open](/Docs/Readme4.md) |
+| Day 5 | ----------  | [Open](/Docs/Readme5.md) |
 
 
 ## 📝 About this Repository
