@@ -6,7 +6,7 @@ This repository contains the fundamental concepts of Java, organized by daily to
 
 | Day  | Topic Name         | Open |
 |------|--------------------|------|
-| Day 1 | Git & GitHub       | [Open](Docs/Git&Github.txt) |
+| Day 1 | Git & GitHub       | [Open](Docs/Readme1.md) |
 | Day 2 | Java History       | [Open](Docs/Java_History.txt) |
 | Day 3 | JDK, JRE, JVM      | [Open](Docs/JDK_JRE_JVM.txt) |
 | Day 4 | Java Installation  | [Open](Docs/Java_Installation.txt) |
