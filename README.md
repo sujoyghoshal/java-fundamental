@@ -15,7 +15,7 @@ This repository contains fundamental Java programs and concepts covered over 10 
 | 7    | **Object-Oriented Programming (OOP)** | Classes, objects, inheritance, polymorphism |
 | 8    | **Exception Handling** | Try-catch, finally, throw, throws |
 | 9    | **File Handling in Java** | Reading/writing files using File I/O |
-| 10   | **[Git & GitHub](Docs/README.md)** | Version control, Git commands, working with repositories |
+| 10   | **[Git & GitHub](/Docs/Git&Github.txt)** | Version control, Git commands, working with repositories |
 
 ---
 
