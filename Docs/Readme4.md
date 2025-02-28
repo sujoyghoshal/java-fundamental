@@ -11,7 +11,7 @@ Primitive data types are predefined by Java and store simple values.
 | **short** | 2 | 0 | -32,768 to 32,767 |
 | **int** | 4 | 0 | -2,147,483,648 to 2,147,483,647 |
 | **long** | 8 | 0L | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 |
-| **float** | 4 | 0.0f | 3.4e-038 to 3.4e+038 |
+| **float** | 4 | 0.0f | 3.4e-038 to 3.4e+038 | 
 | **double** | 8 | 0.0d | 1.7e-308 to 1.7e+308 |
 | **char** | 2 | '\u0000' | 0 to 65,535 (Unicode) |
 | **boolean** | 1 | false | true or false |

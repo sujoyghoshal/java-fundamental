@@ -13,7 +13,7 @@
   - Execution Engine: Executes bytecode.
 
 =======================================
-📌 2. JRE (Java Runtime Environment)
+📌 2. JRE (Java Runtime Environment) 
 =======================================
 * JRE is a software package that provides the **libraries + JVM** required to run Java applications.
 * It does NOT include development tools (compiler, debugger, etc.).
